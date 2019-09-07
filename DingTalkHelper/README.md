@@ -17,8 +17,8 @@ iOS版钉钉远程打卡插件 支持Wi-Fi和定位两种打卡模式
 
 ## ScreenShots
 
-![image](https://github.com/kevll/DingTalkHelper/blob/master/screenshots/setting.PNG)
-![image](https://github.com/kevll/DingTalkHelper/blob/master/screenshots/new_function.PNG)
+![image](screenshots/setting.PNG)
+![image](screenshots/new_function.PNG)
 
 ## How to install
 
